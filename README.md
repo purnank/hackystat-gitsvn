@@ -18,13 +18,12 @@ Steps
 
 At the end of this process you would have:
 
-    README.md                            hackystat-sensor-eclipse/            hackystat-sensorbase-uh/
-    clone_them.sh*                       hackystat-sensor-emacs/              hackystat-ui-systemstatus/
-    config                               hackystat-sensor-example/            hackystat-ui-tickertape/
-    hackystat/                           hackystat-sensor-shell/              hackystat-ui-wicket/
-    hackystat-analysis-dailyprojectdata/ hackystat-sensor-vim/                hackystat-utilities/
-    hackystat-analysis-telemetry/        hackystat-sensor-xmldata/            users.txt
-    hackystat-developer-example/         hackystat-sensorbase-postgres/
-    hackystat-sensor-ant/                hackystat-sensorbase-simdata/
+    README.md                            hackystat-sensor-eclipse/            hackystat-sensorbase-simdata/
+    clone_them.sh*                       hackystat-sensor-emacs/              hackystat-sensorbase-uh/
+    hackystat/                           hackystat-sensor-example/            hackystat-ui-systemstatus/
+    hackystat-analysis-dailyprojectdata/ hackystat-sensor-shell/              hackystat-ui-tickertape/
+    hackystat-analysis-telemetry/        hackystat-sensor-vim/                hackystat-ui-wicket/
+    hackystat-developer-example/         hackystat-sensor-xmldata/            hackystat-utilities/
+    hackystat-sensor-ant/                hackystat-sensorbase-postgres/       users.txt
 
 The hackystat-* are replica of SVN to GIT.
