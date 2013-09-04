@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # .googlecode.com/svn/
 
 _the_root=`pwd`
@@ -21,7 +20,7 @@ ALL_REPO="hackystat \
         hackystat-ui-systemstatus \
         hackystat-ui-tickertape \
         hackystat-ui-wicket \
-        hackystat-utilities;"
+        hackystat-utilities"
 
 ONE_REPO="hackystat"
 
