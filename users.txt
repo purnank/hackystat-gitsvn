@@ -1,12 +1,15 @@
 
-philipmjohnson  = Philip Johnson <philipmjohnson@gmail.com>
 (no author)     = Philip Johnson <philipmjohnson@gmail.com>
-hongbing        = Hongbing Kou <hongbing@gmail.com>
-seninp          = Pavel Senin <seninp@gmail.com>
-rbrewer         = Robert Brewer <rbrewer@lava.net>
-jsakuda         = Julie Ann Sakuda <jsakuda@hawaii.edu>
 austen.ito      = Austen Ito <austen.ito@gmail.com>
-zsxking         = Shaoxuan Zhang <zsxking@gmail.com>
-kagawaa@gmail.com = Aaron Kagawa <kagawaa@gmail.com>
-dport96         = Dan Port <dport96@gmail.com>
 cammymoore07    = Cam Moore <cammymoore07@gmail.com>
+dport96         = Dan Port <dport96@gmail.com>
+hongbing        = Hongbing Kou <hongbing@gmail.com>
+jsakuda         = Julie Ann Sakuda <jsakuda@hawaii.edu>
+kagawaa         = Aaron Kagawa <kagawaa@gmail.com>
+kagawaa@gmail.com = Aaron Kagawa <kagawaa@gmail.com>
+philipmjohnson  = Philip Johnson <philipmjohnson@gmail.com>
+rbrewer         = Robert Brewer <rbrewer@lava.net>
+rlcox0          = rlcox0 <philipmjohnson@gmail.com>
+seninp          = Pavel Senin <seninp@gmail.com>
+tryggvib@hi.is  = Tryggvi Bjoergvinsson <tryggvib@hi.is>
+zsxking         = Shaoxuan Zhang <zsxking@gmail.com>
