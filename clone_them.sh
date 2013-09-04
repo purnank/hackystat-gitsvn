@@ -26,7 +26,7 @@ ALL_REPO="hackystat \
 ONE_REPO="hackystat"
 
 
-for repo in  $ONE_REPO;
+for repo in  $ALL_REPO;
 do
     cd $_the_root
     echo "## Running for $repo #####################################################"
